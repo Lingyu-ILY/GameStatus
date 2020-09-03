@@ -1,0 +1,38 @@
+[
+    {
+        "type": "UT3Query",
+        "game": "Minecraft",
+        "addr": "mcserver1.ancientmaple.com",
+        "port": 25565,
+        "channel": 720872159030935693,
+        "image_url": "https://github.com/Lingyu-ILY/GameStatus/blob/master/img/minecraft.jpg?raw=true",
+        "country": "TW"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Gmod-PropHunt",
+        "addr": "gmod.ancientmaple.com",
+        "port": 27015,
+        "channel": 720872159030935693,
+        "image_url": "https://github.com/Lingyu-ILY/GameStatus/blob/master/img/ph.png?raw=true",
+        "country": "TW"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Gmod-Horror",
+        "addr": "gmod.ancientmaple.com",
+        "port": 27016,
+        "channel": 720872159030935693,
+        "image_url": "https://github.com/Lingyu-ILY/GameStatus/blob/master/img/hr.jpg?raw=true",
+        "country": "TW"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "empyrion",
+        "addr": "empyrion.ancientmaple.com",
+        "port": 30001,
+        "channel": 720872159030935693,
+		"image_url": "https://github.com/Lingyu-ILY/GameStatus/blob/master/img/empyrion.jpg?raw=true",
+        "country": "TW"
+    }
+]
